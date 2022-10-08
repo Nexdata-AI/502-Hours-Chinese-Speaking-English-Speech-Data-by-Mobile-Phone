@@ -1,8 +1,10 @@
 # 502-Hours-Chinese-Speaking-English-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1002
+
 
 ## Description
 1,279 Chinese speakers from major dialect regions participated in the recording, it is in line with the specific accent of Chinese English speakers. The recorded script cover many categories such as spoken English, speech, and human-computer interaction, rich in content, extensive in fields, and balanced in phonemes. It can be used to improve the recognition effect of the automatic speech recognition system on Chinese people speaking English.
+
+For more details, please refer to the link: https://bit.ly/3C6jEnk
 
 ## Format
 16kHz,16bit,uncompressed wav,mono channel;
@@ -24,3 +26,6 @@ English;
 
 ## Application scenarios
 speech recognition;voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
