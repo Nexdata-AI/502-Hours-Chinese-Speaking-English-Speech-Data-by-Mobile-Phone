@@ -4,7 +4,7 @@
 ## Description
 1,279 Chinese speakers from major dialect regions participated in the recording, it is in line with the specific accent of Chinese English speakers. The recorded script cover many categories such as spoken English, speech, and human-computer interaction, rich in content, extensive in fields, and balanced in phonemes. It can be used to improve the recognition effect of the automatic speech recognition system on Chinese people speaking English.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1002?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1002?source=Github
 
 
 ## Format
